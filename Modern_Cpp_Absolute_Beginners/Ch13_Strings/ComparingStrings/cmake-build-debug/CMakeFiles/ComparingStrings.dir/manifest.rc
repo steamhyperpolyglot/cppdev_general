@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/RnD/cppdev_general/Modern_Cpp_Absolute_Beginners/Ch13_Strings/ComparingStrings/cmake-build-debug/CMakeFiles/ComparingStrings.dir/embed.manifest"

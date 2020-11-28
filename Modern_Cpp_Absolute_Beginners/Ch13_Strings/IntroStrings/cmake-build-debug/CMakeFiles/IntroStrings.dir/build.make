@@ -38,10 +38,10 @@ NULL=nul
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\Jetbrains\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = D:\Jetbrains\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = D:\Jetbrains\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = D:\Jetbrains\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -91,7 +91,7 @@ IntroStrings.exe: CMakeFiles\IntroStrings.dir\main.cpp.obj
 IntroStrings.exe: CMakeFiles\IntroStrings.dir\build.make
 IntroStrings.exe: CMakeFiles\IntroStrings.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\RnD\cppdev_general\Modern_Cpp_Absolute_Beginners\Ch13_Strings\IntroStrings\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable IntroStrings.exe"
-	D:\Jetbrains\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\IntroStrings.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\IntroStrings.dir\objects1.rsp @<<
+	D:\Jetbrains\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\IntroStrings.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\IntroStrings.dir\objects1.rsp @<<
  /out:IntroStrings.exe /implib:IntroStrings.lib /pdb:D:\RnD\cppdev_general\Modern_Cpp_Absolute_Beginners\Ch13_Strings\IntroStrings\cmake-build-debug\IntroStrings.pdb /version:0.0  /machine:x64 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
