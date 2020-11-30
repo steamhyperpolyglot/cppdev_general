@@ -1,6 +1,9 @@
 #include <iostream>
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	bool myCondition = true;
+	int x = 0;
+	x = (myCondition) ? 1 : 0;
+	std::cout << "The value of x is: " << x << '\n';
 	return 0;
 }

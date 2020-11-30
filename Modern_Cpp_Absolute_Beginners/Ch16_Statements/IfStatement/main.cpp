@@ -1,6 +1,12 @@
 #include <iostream>
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	bool b = true;
+	
+	if (b) {
+		std::cout << "This is a first statement.";
+		std::cout << "\nThis is a second statement.";
+	}
+	
 	return 0;
 }
