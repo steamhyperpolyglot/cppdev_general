@@ -1,6 +1,11 @@
 #include <iostream>
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	bool myCondition = false;
+	if (myCondition) {
+		std::cout << "The condition is true." << '\n';
+	} else {
+		std::cout << "The condition is not true." << '\n';
+	}
 	return 0;
 }
