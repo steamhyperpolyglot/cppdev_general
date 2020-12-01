@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch03_DataTypes/Ex14StoreUsernames/main.cpp
+iostream
+-
+string
+-
+

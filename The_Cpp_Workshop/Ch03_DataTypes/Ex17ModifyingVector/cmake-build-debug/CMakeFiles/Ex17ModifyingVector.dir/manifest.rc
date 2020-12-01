@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/RnD/cppdev_general/The_Cpp_Workshop/Ch03_DataTypes/Ex17ModifyingVector/cmake-build-debug/CMakeFiles/Ex17ModifyingVector.dir/embed.manifest"

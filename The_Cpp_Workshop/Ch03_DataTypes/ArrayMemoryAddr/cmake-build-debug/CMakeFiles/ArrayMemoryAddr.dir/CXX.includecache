@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch03_DataTypes/ArrayMemoryAddr/main.cpp
+iostream
+-
+

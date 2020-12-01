@@ -1,0 +1,3 @@
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/Ex21PrimeNumChecker/cmake-build-debug/CMakeFiles/Ex21PrimeNumChecker.dir
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/Ex21PrimeNumChecker/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/Ex21PrimeNumChecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
