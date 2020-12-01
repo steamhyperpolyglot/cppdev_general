@@ -1,0 +1,3 @@
+D:/RnD/cppdev_general/Modern_Cpp_Absolute_Beginners/Ch20_Exercises/PassStringRef/cmake-build-debug/CMakeFiles/PassStringRef.dir
+D:/RnD/cppdev_general/Modern_Cpp_Absolute_Beginners/Ch20_Exercises/PassStringRef/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/RnD/cppdev_general/Modern_Cpp_Absolute_Beginners/Ch20_Exercises/PassStringRef/cmake-build-debug/CMakeFiles/rebuild_cache.dir
