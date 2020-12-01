@@ -2,9 +2,9 @@
 
 int main () {
 	int x = 0;
-	while (x < 10) {
+	do {
 		std::cout << "The value of x is: " << x << '\n';
 		x++;
-	}
+	} while (x < 10);
 	return 0;
 }
