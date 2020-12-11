@@ -1,6 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	int a[5] {10, 20, 30, 40, 50};
+	int* p;
+	for (p = a; p < a + sizeof(a) / sizeof(a[0]); ++p) {
+		cout << *p << " ";
+	}
+	cout << endl;
 	return 0;
 }
