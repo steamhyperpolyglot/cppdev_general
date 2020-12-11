@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	int myInt = 1;
+	std::cout << ++myInt << std::endl;
+	std::cout << --myInt << std::endl;
 	return 0;
 }

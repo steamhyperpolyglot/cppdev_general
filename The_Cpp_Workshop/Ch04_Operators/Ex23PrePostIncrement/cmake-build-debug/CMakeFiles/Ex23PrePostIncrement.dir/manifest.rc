@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/Ex23PrePostIncrement/cmake-build-debug/CMakeFiles/Ex23PrePostIncrement.dir/embed.manifest"
