@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/BitwiseOperations/cmake-build-debug/CMakeFiles/BitwiseOperations.dir/embed.manifest"

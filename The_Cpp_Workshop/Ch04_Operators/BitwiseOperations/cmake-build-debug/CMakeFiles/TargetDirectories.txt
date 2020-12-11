@@ -1,0 +1,3 @@
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/BitwiseOperations/cmake-build-debug/CMakeFiles/BitwiseOperations.dir
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/BitwiseOperations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/BitwiseOperations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

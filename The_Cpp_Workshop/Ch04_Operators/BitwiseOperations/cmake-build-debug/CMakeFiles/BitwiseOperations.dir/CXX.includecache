@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/RnD/cppdev_general/The_Cpp_Workshop/Ch04_Operators/BitwiseOperations/main.cpp
+iostream
+-
+string
+-
+bitset
+-
+
