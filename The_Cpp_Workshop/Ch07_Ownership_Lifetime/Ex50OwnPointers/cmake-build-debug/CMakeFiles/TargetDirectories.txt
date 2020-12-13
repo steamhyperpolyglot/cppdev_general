@@ -1,0 +1,3 @@
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/cmake-build-debug/CMakeFiles/Ex50OwnPointers.dir
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/main.cpp
+iostream
+-
+numeric_list.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/numeric_list.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/numeric_list.cpp
+iostream
+-
+numeric_list.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/numeric_list.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex50OwnPointers/numeric_list.h
+

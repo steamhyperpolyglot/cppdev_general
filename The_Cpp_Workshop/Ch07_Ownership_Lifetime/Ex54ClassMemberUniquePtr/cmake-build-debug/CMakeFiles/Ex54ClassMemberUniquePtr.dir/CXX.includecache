@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex54ClassMemberUniquePtr/autobuf.cpp
+autobuf.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex54ClassMemberUniquePtr/autobuf.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex54ClassMemberUniquePtr/autobuf.h
+iostream
+-
+cstring
+-
+memory
+-
+

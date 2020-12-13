@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Ex53MakeUnique" targetName="Ex53MakeUnique" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cd5d983-6ba0-48fb-92d9-32a52f64e2ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ex49LifetimeDemo/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex49LifetimeDemo/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex50OwnPointers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex50OwnPointers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex50OwnPointers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex50OwnPointers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex50OwnPointers/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex50OwnPointers/numeric_list.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex50OwnPointers/numeric_list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex51TransferOwnership/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex51TransferOwnership/.idea/Ex51TransferOwnership.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex51TransferOwnership/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex51TransferOwnership/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex51TransferOwnership/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex51TransferOwnership/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex52UniquePtr/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex52UniquePtr/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex52UniquePtr/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex52UniquePtr/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex52UniquePtr/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="pq5gt2ro" />
+  </component>
+  <component name="ProjectId" id="1lYy5HjvrYzLwk0d6BfGAYnEOnY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex53MakeUnique" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ex53MakeUnique" TARGET_NAME="Ex53MakeUnique" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ex53MakeUnique" RUN_TARGET_NAME="Ex53MakeUnique">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cd5d983-6ba0-48fb-92d9-32a52f64e2ae" name="Default Changelist" comment="" />
+      <created>1607788134887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607788134887</updated>
+      <workItem from="1607788138302" duration="249000" />
+    </task>
+    <servers />
+  </component>
+</project>

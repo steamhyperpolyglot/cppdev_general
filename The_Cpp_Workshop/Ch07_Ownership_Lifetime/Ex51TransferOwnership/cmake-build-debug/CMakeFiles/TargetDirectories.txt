@@ -1,0 +1,3 @@
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex51TransferOwnership/cmake-build-debug/CMakeFiles/Ex51TransferOwnership.dir
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex51TransferOwnership/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch07_Ownership_Lifetime/Ex51TransferOwnership/cmake-build-debug/CMakeFiles/rebuild_cache.dir
