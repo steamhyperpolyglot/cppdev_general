@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch10_Advanced_OOP/Ex68VirtualFunctions/main.cpp
+iostream
+-
+shapes.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch10_Advanced_OOP/Ex68VirtualFunctions/shapes.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch10_Advanced_OOP/Ex68VirtualFunctions/shapes.h
+

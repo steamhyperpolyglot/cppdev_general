@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex62PrintValues/article.h
+string
+-
+valueprinter.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex62PrintValues/valueprinter.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex62PrintValues/main.cpp
+iostream
+-
+article.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex62PrintValues/article.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex62PrintValues/valueprinter.h
+iostream
+-
+string
+-
+

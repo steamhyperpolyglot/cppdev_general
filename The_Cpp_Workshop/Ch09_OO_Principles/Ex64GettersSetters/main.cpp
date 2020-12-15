@@ -1,6 +1,36 @@
 #include <iostream>
+#include "position.h"
+
+using namespace std;
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	float maxDistance = 500.0f;
+	Position pos(10.0f, 20.0f);
+	Position pos2(100.0f, 200.0f);
+	bool validDistance = true;
+	int numberOfTimesMoved = 0;
+	
+	while (validDistance) {
+		float distance = pos.distance(pos2.getX(), pos2.getY());
+		
+		if (distance > maxDistance) {
+			validDistance = false;
+			break;
+		}
+		
+		// get direction
+		float xDirection = pos2.getX() - pos.getX();
+		float yDirection = pos2.getY() - pos.getY();
+		
+		// normalize
+		float normalizedX = xDirection / distance;
+		float normalizedY = yDirection / distance;
+		pos.setX(pos.getX() - normalizedX);
+		pos.setY(pos.getY() - normalizedY);
+		numberOfTimesMoved++;
+	}
+	
+	cout << "Too far apart." << " Moved " << numberOfTimesMoved << " times.";
+	
 	return 0;
 }

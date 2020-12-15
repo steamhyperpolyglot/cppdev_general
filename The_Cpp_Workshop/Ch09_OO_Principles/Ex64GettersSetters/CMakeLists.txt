@@ -3,4 +3,4 @@ project(Ex64GettersSetters)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex64GettersSetters main.cpp)
+add_executable(Ex64GettersSetters main.cpp position.h)

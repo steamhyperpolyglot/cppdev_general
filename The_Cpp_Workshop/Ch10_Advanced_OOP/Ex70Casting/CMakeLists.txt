@@ -3,4 +3,4 @@ project(Ex70Casting)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex70Casting main.cpp)
+add_executable(Ex70Casting main.cpp shapes.h)

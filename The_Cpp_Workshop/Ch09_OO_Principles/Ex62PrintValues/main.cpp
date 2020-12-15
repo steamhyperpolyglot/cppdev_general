@@ -1,6 +1,10 @@
 #include <iostream>
+#include "article.h"
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	Article article("Celebrity Crushes!", 2, 200, "Papa Ratsea");
+	
+	article.ShowDetails();
+	
 	return 0;
 }

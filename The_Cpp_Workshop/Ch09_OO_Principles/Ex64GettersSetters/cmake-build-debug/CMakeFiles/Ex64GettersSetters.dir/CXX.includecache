@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex64GettersSetters/main.cpp
+iostream
+-
+position.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex64GettersSetters/position.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch09_OO_Principles/Ex64GettersSetters/position.h
+cmath
+-
+

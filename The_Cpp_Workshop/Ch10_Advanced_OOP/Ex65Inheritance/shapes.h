@@ -2,7 +2,29 @@
 // Created by steam.hyperpolyglot on 15/12/2020.
 //
 
-#ifndef EX65INHERITANCE_SHAPES_H
-#define EX65INHERITANCE_SHAPES_H
+#ifndef SHAPES_H
+#define SHAPES_H
 
-#endif //EX65INHERITANCE_SHAPES_H
+#include <iostream>
+
+class Color {
+public:
+	std::string color = "";
+	std::string GetColor() {
+		return color;
+	}
+};
+
+class Shape {
+public:
+	int area = 10;
+	int GetArea() { return area; }
+};
+
+class Square : public Shape, public Color {};
+
+class Circle : public Shape, public Color {};
+
+class Triangle : public Shape, public Color {};
+
+#endif SHAPES_H

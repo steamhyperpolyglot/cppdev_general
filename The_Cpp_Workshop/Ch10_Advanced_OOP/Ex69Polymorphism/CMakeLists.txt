@@ -3,4 +3,4 @@ project(Ex69Polymorphism)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex69Polymorphism main.cpp)
+add_executable(Ex69Polymorphism main.cpp shapes.h)

@@ -3,4 +3,4 @@ project(Ex68VirtualFunctions)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex68VirtualFunctions main.cpp)
+add_executable(Ex68VirtualFunctions main.cpp shapes.h)

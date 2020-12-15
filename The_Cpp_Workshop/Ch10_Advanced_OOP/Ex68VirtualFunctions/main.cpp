@@ -1,6 +1,13 @@
 #include <iostream>
+#include "shapes.h"
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	Square square;
+	square.height = 10;
+	std::cout << "Square Area: " << square.CalculateArea() << std::endl;
+	
+	Circle circle;
+	circle.radius = 10;
+	std::cout << "Circle Area: " << circle.CalculateArea() << std::endl;
 	return 0;
 }
