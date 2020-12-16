@@ -1,0 +1,8 @@
+//
+// Created by steam.hyperpolyglot on 15/12/2020.
+//
+
+#ifndef EX71POSITIONTEMPLATE_POSITION_H
+#define EX71POSITIONTEMPLATE_POSITION_H
+
+#endif //EX71POSITIONTEMPLATE_POSITION_H
