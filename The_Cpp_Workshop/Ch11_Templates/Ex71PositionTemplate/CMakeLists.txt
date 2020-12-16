@@ -3,4 +3,4 @@ project(Ex71PositionTemplate)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ex71PositionTemplate main.cpp)
+add_executable(Ex71PositionTemplate main.cpp position.h)

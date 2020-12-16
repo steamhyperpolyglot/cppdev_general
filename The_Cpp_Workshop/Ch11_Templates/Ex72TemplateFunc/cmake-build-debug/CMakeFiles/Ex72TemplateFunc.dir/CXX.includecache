@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch11_Templates/Ex72TemplateFunc/main.cpp
+iostream
+-
+typeinfo
+-
+position.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch11_Templates/Ex72TemplateFunc/position.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch11_Templates/Ex72TemplateFunc/position.h
+

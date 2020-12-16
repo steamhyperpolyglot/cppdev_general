@@ -3,4 +3,4 @@ project(QueueTemplate)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(QueueTemplate main.cpp)
+add_executable(QueueTemplate main.cpp queue.h)
