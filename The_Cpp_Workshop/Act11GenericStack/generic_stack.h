@@ -1,0 +1,8 @@
+//
+// Created by steam.hyperpolyglot on 19/12/2020.
+//
+
+#ifndef ACT11GENERICSTACK_GENERIC_STACK_H
+#define ACT11GENERICSTACK_GENERIC_STACK_H
+
+#endif //ACT11GENERICSTACK_GENERIC_STACK_H
