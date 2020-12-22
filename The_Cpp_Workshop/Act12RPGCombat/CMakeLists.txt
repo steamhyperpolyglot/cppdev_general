@@ -3,4 +3,4 @@ project(Act12RPGCombat)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Act12RPGCombat main.cpp)
+add_executable(Act12RPGCombat main.cpp rpg.h)

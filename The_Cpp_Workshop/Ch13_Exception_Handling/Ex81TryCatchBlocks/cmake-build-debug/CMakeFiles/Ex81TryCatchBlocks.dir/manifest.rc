@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "F:/RnD/cppdev_general/The_Cpp_Workshop/Ch13_Exception_Handling/Ex81TryCatchBlocks/cmake-build-debug/CMakeFiles/Ex81TryCatchBlocks.dir/embed.manifest"

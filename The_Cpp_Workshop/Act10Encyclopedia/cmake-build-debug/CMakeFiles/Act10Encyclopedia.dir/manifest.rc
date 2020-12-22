@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "F:/RnD/cppdev_general/The_Cpp_Workshop/Act10Encyclopedia/cmake-build-debug/CMakeFiles/Act10Encyclopedia.dir/embed.manifest"

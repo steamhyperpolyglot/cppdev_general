@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act3SignUpApp/main.cpp
+iostream
+-
+string
+-
+vector
+-
+stdexcept
+-
+

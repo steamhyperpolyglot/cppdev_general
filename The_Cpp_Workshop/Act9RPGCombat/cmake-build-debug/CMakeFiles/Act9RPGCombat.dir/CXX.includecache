@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act9RPGCombat/main.cpp
+iostream
+-
+rpg.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act9RPGCombat/rpg.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act9RPGCombat/rpg.cpp
+iostream
+-
+rpg.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act9RPGCombat/rpg.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act9RPGCombat/rpg.h
+iostream
+-
+cstring
+-
+

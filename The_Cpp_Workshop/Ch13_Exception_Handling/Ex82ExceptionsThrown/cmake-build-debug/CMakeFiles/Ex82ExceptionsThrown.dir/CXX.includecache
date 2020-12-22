@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch13_Exception_Handling/Ex82ExceptionsThrown/main.cpp
+iostream
+-
+exception
+-
+string
+-
+

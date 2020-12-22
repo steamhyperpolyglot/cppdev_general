@@ -3,4 +3,4 @@ project(Act8VideoClip)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Act8VideoClip main.cpp)
+add_executable(Act8VideoClip main.cpp video_clip.cpp video_clip.h)

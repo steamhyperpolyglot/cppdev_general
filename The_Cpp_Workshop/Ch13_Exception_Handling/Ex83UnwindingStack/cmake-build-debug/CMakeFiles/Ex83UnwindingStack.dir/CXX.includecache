@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Ch13_Exception_Handling/Ex83UnwindingStack/main.cpp
+iostream
+-
+exception
+-
+memory
+-
+

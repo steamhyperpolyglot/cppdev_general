@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act7WordsOfBook/book.cpp
+iostream
+-
+book.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act7WordsOfBook/book.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act7WordsOfBook/book.h
+memory
+-
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act7WordsOfBook/main.cpp
+iostream
+-
+memory
+-
+book.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act7WordsOfBook/book.h
+

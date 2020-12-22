@@ -1,6 +1,25 @@
+// Activity 4: Fizz Buzz
 #include <iostream>
 
 int main () {
-	std::cout << "Hello, World!" << std::endl;
+	for (int i = 1; i <= 100; ++i) {
+		bool multiple = false;
+		if (i % 3 == 0) {
+			std::cout << "Fizz, ";
+			multiple = true;
+		}
+		if (i % 3 == 0) {
+			std::cout << "Buzz";
+			multiple = true;
+		}
+		
+		if (!multiple) {
+			std::cout << i;
+		}
+		
+		if (i < 100) {
+			std::cout << ", ";
+		}
+	}
 	return 0;
 }

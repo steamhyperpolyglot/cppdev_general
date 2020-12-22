@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act11GenericStack/generic_stack.h
+memory
+-
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act11GenericStack/main.cpp
+iostream
+-
+generic_stack.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act11GenericStack/generic_stack.h
+

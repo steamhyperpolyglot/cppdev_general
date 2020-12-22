@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act8VideoClip/main.cpp
+iostream
+-
+string
+-
+video_clip.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act8VideoClip/video_clip.h
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act8VideoClip/video_clip.h
+iostream
+-
+string
+-
+cstring
+-
+

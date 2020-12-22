@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act10Encyclopedia/encyclopedia.h
+string
+-
+
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act10Encyclopedia/main.cpp
+iostream
+-
+vector
+-
+encyclopedia.h
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act10Encyclopedia/encyclopedia.h
+

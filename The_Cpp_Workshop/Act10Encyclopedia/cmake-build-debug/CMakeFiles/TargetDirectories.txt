@@ -1,0 +1,3 @@
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act10Encyclopedia/cmake-build-debug/CMakeFiles/Act10Encyclopedia.dir
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act10Encyclopedia/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/RnD/cppdev_general/The_Cpp_Workshop/Act10Encyclopedia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
