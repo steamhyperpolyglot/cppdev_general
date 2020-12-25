@@ -1,0 +1,8 @@
+//
+// Created by steam.hyperpolyglot on 25/12/2020.
+//
+
+#ifndef EX5CUSTOMCONTAINER_SINGLY_LL_H
+#define EX5CUSTOMCONTAINER_SINGLY_LL_H
+
+#endif //EX5CUSTOMCONTAINER_SINGLY_LL_H
