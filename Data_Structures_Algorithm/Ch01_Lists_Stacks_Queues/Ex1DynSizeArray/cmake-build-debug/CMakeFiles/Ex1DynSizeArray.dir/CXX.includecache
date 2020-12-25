@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/Data_Structures_Algorithm/Ch01_Lists_Stacks_Queues/Ex1DynSizeArray/dynamic_array.h
+iostream
+-
+sstream
+-
+string
+-
+array
+-
+
+F:/RnD/cppdev_general/Data_Structures_Algorithm/Ch01_Lists_Stacks_Queues/Ex1DynSizeArray/main.cpp
+iostream
+-
+sstream
+-
+algorithm
+-
+dynamic_array.h
+F:/RnD/cppdev_general/Data_Structures_Algorithm/Ch01_Lists_Stacks_Queues/Ex1DynSizeArray/dynamic_array.h
+

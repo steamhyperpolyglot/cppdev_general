@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/Data_Structures_Algorithm/Ch01_Lists_Stacks_Queues/Ex2GPFastStorage/main.cpp
+iostream
+-
+array
+-
+type_traits
+-
+

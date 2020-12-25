@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/RnD/cppdev_general/Data_Structures_Algorithm/Ch01_Lists_Stacks_Queues/Ex5CustomContainer/main.cpp
+iostream
+-
+singly_ll.h
+F:/RnD/cppdev_general/Data_Structures_Algorithm/Ch01_Lists_Stacks_Queues/Ex5CustomContainer/singly_ll.h
+
+F:/RnD/cppdev_general/Data_Structures_Algorithm/Ch01_Lists_Stacks_Queues/Ex5CustomContainer/singly_ll.h
+iostream
+-
+algorithm
+-
+
